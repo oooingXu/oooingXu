@@ -56,7 +56,7 @@ Mail: 202301202097@stu.sztu.edu.cn
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-## Avtivity
+## 🏆 Trophy
 <div align="center">
 
 <!-- run 图片 -->
@@ -69,15 +69,7 @@ Mail: 202301202097@stu.sztu.edu.cn
     <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
-</div>
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oooingXu&theme=react-dark&days=60)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
-## 🏆 Trophy
-<div align="center">
-  
 [![trophy](https://github-profile-trophy.vercel.app/?username=oooingXu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -136,6 +128,8 @@ Mail: 202301202097@stu.sztu.edu.cn
 <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oooingXu&theme=react-dark&days=60)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
