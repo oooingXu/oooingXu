@@ -89,6 +89,8 @@
 
 </div>
 
+<div align="center">
+  
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
