@@ -3,6 +3,7 @@
 
 ## Hi there 👋
 
+</div>
 <div align="center">
   
   <!-- just img 图片 -->
@@ -100,6 +101,14 @@
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
+
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+
+[![GitHub Streak](https://github-readme-streak-stats-flame-mu.vercel.app/?user=oooingXu)](https://git.io/streak-stats)
+
+
 <div align="center">
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oooingXu&theme=react-dark&days=60)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -111,6 +120,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ## 🏆 Trophy
+
 
 <div align="center">
 
@@ -127,7 +137,8 @@
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
 <div>
-
+  
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/beker.gif?raw=true"  width="100px" height="100px"></p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=oooingXu)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ########################################## 分割 ########################################## -->
