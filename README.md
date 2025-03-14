@@ -74,6 +74,12 @@
 
 </div>
 
+<div align="center">
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+
+</div>
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -100,11 +106,6 @@
 
 </div>
 
-<div align="center">
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
-
-</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -125,10 +126,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
+<div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oooingXu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=oooingXu)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
