@@ -48,22 +48,10 @@
  <img src="ysyx.png" width = "38" height = "38" alt="YSYX Badge"/>
  <img src="risc-v.svg" width = "38" height = "38" alt="RISCV"/>
 
-[![C Badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)]()
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()
-[![Scala Badge](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)]()
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
-[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)]()
-[![Vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)]()
-[![MATLAB Badge](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white)]()
-
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=c,cpp,instagram,ps,git" /><br>
+
+<img src="https://skillicons.dev/icons?i=vim,git,linux" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,matlab,scala" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
