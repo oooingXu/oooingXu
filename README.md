@@ -147,20 +147,24 @@
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/stars.svg" alt="stars" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/activity.svg" alt="activity" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
 </table>
 
@@ -179,7 +183,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=oooingXu;小许同学祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
+  
+ Email:202301202097@stumail.sztu.edu.cn
 
-<div align="center">
-Email[202301202097@stumail.sztu.edu.cn]
-</div>
