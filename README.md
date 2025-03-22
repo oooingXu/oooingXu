@@ -135,7 +135,7 @@
 <div>
   
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/beker.gif?raw=true"  width="100px" height="100px"></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=oooingXu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=oooingXu&column=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
