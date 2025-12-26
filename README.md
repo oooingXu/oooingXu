@@ -85,18 +85,6 @@
 
 ## ⚡ Activity
 
-<div align="center">
-  
-<!-- GitHub metrics 信息指标 -->
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
-
-</div>
-
-<div align="center">
-  
-<!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
 <div align="center">
 
@@ -112,30 +100,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oooingXu&theme=react-dark&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-## 🏆 Trophy
-
-<div align="center">
-
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
-
-<div>
-
-<div align="center">
-<!-- Joke 笑话 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-<div>
-  
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/beker.gif?raw=true"  width="100px" height="100px"></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=oooingXu&column=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
