@@ -125,12 +125,8 @@
     <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/stars.svg" alt="stars" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+       <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/oooingXu/oooingXu/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
