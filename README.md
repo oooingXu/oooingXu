@@ -1,7 +1,13 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-## Hi there 👋
+## Hi there 
+ <img src="xzp.png" width = "100%"  alt="YSYX Badge"/>
+ 
+ 📫 Contacts:202301202097@stumail.sztu.edu.cn
+ 
+ <!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 </div>
 <div align="center">
@@ -140,13 +146,6 @@
 ## 📫 Contacts
 
 <div align="center">
-
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=oooingXu;小许同学祝您今天愉快!&center=true&size=27" />
-    </a>
-  </div>
   
  Email:202301202097@stumail.sztu.edu.cn
 
