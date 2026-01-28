@@ -1,12 +1,6 @@
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ## Hi there 
- <img src="xzp.png" width = "100%"  alt="xzp Badge"/>
- 
- 📫 Contacts:202301202097@stumail.sztu.edu.cn
 
- 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -41,12 +35,6 @@
 
 
 <div align="center">
-
-| Repository | Description |
-|------------|-------------|
-| [ysyx-workbench](https://github.com/oooingXu/ysyx-workbench) | 这是我学习一生一芯的相关仓库，包含完整的开发记录和代码。 |
-| [Learning](https://github.com/oooingXu/Learning) | 这是我学习处理器设计的阶段记录和项目。 |
-| [VEXRISCV](https://github.com/oooingXu/VEXRSICV)| 这是我全国大学生嵌入式芯片与系统设计竞赛的项目。 |
 
 
 </div>
